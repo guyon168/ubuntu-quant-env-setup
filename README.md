@@ -7,8 +7,7 @@ A one-click install script to build a quantitative trading environment on Ubuntu
 在服务器中一键执行脚本安装命令为：（先下载脚本然后执行安装命令）
 
 ~~~
-wget -N --no-check-certificate
-https://raw.githubusercontent.com/guyon168/ubuntu-quant-env-setup/main/install.sh && bash install.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/guyon168/ubuntu-quant-env-setup/main/install.sh && bash install.sh
 ~~~
 
 # deploy-qronos.sh
@@ -16,6 +15,5 @@ https://raw.githubusercontent.com/guyon168/ubuntu-quant-env-setup/main/install.s
 
 在服务器中一键执行脚本安装命令为
 ```
-wget -N --no-check-certificate
-https://raw.githubusercontent.com/guyon168/ubuntu-quant-env-setup/main/deploy-qronos.sh && bash deploy-qronos.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/guyon168/ubuntu-quant-env-setup/main/deploy-qronos.sh && bash deploy-qronos.sh
 ```
